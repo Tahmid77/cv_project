@@ -1,0 +1,96 @@
+.image-container{
+    height: 120px;
+    margin: 20px;
+    border: 3px solid rgb(8, 0, 0);
+    border-radius: 50%;
+
+}
+.name-container{
+    padding-top: 20px;
+    float: left;
+}
+.header-contact{
+    float: right;
+    padding: 20px;
+}
+.header-contact a{
+    text-decoration: underline;
+    color:black;
+}
+.header-contact a:hover{
+    color: rgb(253, 136, 2);
+}
+.div-clear{
+    clear: both;
+}
+.content-info{
+    padding: 15px;
+}
+.div-left{
+    width: 30%;
+    float: left;
+
+}
+.div-right{
+    width: 70%;
+    float: left;
+}
+.main-hr{
+    border: black 2px solid;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    padding-bottom: 10px;
+}
+.skill-div-left{
+    width: 50%;
+    float: left;
+}
+.skill-div-right{
+    width: 49%;
+    float: left;
+}
+.ref-div-left{
+    width: 33%;
+    float: left;
+}
+.ref-div-right{
+    width: 33%;
+    float: left;
+}
+.ref-div-center{
+    width: 33%;
+    float: left;
+}
+.footer-list{
+    width: 500px;
+    height: 80px;
+    margin: 0% auto;
+}
+footer{
+    background-color: black;
+    color: blanchedalmond;
+    width: 95%;
+    margin: 0px auto;
+}
+footer ul{
+    list-style: none;
+    padding: 10px;
+}
+footer ul li{
+    float: left;
+    padding-left: 50px;
+    padding-top:20px;
+}
+footer ul li a{
+    text-decoration: none;
+    color: white;
+}
+footer ul li a:hover{
+    color: red;
+}
+.footer-copy{
+    width: 170px;
+    height: 16px;
+    margin: 0% auto;
+}
